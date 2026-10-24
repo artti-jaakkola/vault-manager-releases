@@ -1,0 +1,4 @@
+# GitHub Pages: README.md is the home page, privacy.md is /privacy.
+title: Vault Manager
+description: A KeePass password manager with organised items and Google Drive sync.
+theme: jekyll-theme-primer
